@@ -1,3 +1,6 @@
+# Name:Madhushri P
+# Reg no: 212224040178
+# Date:28.02.2025
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
